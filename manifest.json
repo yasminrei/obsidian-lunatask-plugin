@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "lunatask-plugin",
+	"name": "Lunatask Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Sync Lunatask tasks with Obsidian.",
+	"author": "Yasmin Reina (@yasminrei, @YasminReiDev)",
+	"authorUrl": "https://github.com/yasminrei",
+	"fundingUrl": "https://ko-fi.com/yasminrei",
 	"isDesktopOnly": false
 }
