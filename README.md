@@ -1,6 +1,6 @@
 # Lunatask Plugin for Obsidian
 
-This is an [Obsidian](https://obsidian.md) plugin that allows you to sync your Lunatask tasks with Obsidian.
+This is an [Obsidian](https://obsidian.md) plugin that allows you to access information from your Lunatask through Obsidian.
 
 Made by [Yasmin Reina](https://github.com/yasminrei), a software engineer and Obsidian enthusiast.
 
