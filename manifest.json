@@ -1,6 +1,6 @@
 {
 	"id": "lunatask-plugin",
-	"name": "Lunatask Plugin",
+	"name": "Lunatask for Obsidian",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Use Lunatask with Obsidian.",
