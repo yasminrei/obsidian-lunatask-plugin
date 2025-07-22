@@ -3,7 +3,7 @@
 	"name": "Lunatask Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Sync Lunatask tasks with Obsidian.",
+	"description": "Use Lunatask with Obsidian.",
 	"author": "Yasmin Reina (@yasminrei, @YasminReiDev)",
 	"authorUrl": "https://github.com/yasminrei",
 	"fundingUrl": "https://ko-fi.com/yasminrei",
